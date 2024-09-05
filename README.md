@@ -36,7 +36,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=alishahbaz659&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- ### ✍️ Random Dev Quote -->
-<p align="center">
+<p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" style="max-width: 100%; height: auto;">
 </p>
 
