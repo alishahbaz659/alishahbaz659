@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">🧑🏽‍💻 Software Engineer @ Tu/e</h3>
 
+# Hi 👋, I'm Ali
+
+### 🧑🏽‍💻 Software Engineer @ Tu/e
+
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/alishahbaz659"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
