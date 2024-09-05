@@ -39,9 +39,9 @@
 
 
 <!-- ### ✍️ Random Dev Quote -->
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" style="max-width: 100%; height: auto;">
-</p>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 &nbsp; 
 &nbsp; 
