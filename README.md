@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Ali</h1>
+<h3 align="center">🧑🏽‍💻 Software Engineer @ Tu/e</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on: Java Spring Boot applications and web development using the MERN stack.<br><br>👯 I’m looking to collaborate on: Open-source projects related to web development or cloud solutions.<br><br>🤝 I’m looking for help with: AWS Cloud Solution Architect Associate certification preparation.<br><br>🌱 I’m currently learning: AWS Cloud Solution Architect Associate certification.<br><br>💬 Ask me about: Java Spring, web development with MERN stack, or AWS.<br><br>⚡ Fun fact: I enjoy experimenting with new recipes in my spare time!
 
