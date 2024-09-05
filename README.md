@@ -34,7 +34,9 @@
 
 ## 🏆 GitHub Trophies
 <!-- ![](https://github-profile-trophy.vercel.app/?username=alishahbaz659&theme=default&no-frame=false&no-bg=false&margin-w=4) -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alishahbaz659" alt="alishahbaz" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alishahbaz659" alt="alishahbaz" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15" alt="alishahbaz" /></a> </p>
+
 
 <!-- ### ✍️ Random Dev Quote -->
 <p>
