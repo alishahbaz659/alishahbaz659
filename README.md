@@ -4,6 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently working on: Java Spring Boot applications and web development using the MERN stack.<br><br>👯 I’m looking to collaborate on: Open-source projects related to web development or cloud solutions.<br><br>🤝 I’m looking for help with: AWS Cloud Solution Architect Associate certification preparation.<br><br>🌱 I’m currently learning: AWS Cloud Solution Architect Associate certification.<br><br>💬 Ask me about: Java Spring, web development with MERN stack, or AWS.<br><br>⚡ Fun fact: I enjoy experimenting with new recipes in my spare time!
 
+[![](https://visitcount.itsvg.in/api?id=alishahbaz659&icon=5&color=13)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@alishahbaz.alishahaz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ali_shahbaz_bal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@alishahbaz659) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@alishahbazbal1234) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AShahbazbal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@alishahbazbal) 
@@ -28,6 +29,6 @@
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=alishahbaz659&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alishahbaz659&icon=5&color=13)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
