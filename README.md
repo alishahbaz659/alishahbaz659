@@ -14,15 +14,14 @@
 # 📊 GitHub Stats:
 <div style="display: flex; align-items: center;">
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishahbaz659&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alishahbaz659&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alishahbaz659&show_icons=true&locale=en&layout=compact" alt="alishahbaz" /></p>
   <img src="https://github-readme-stats.vercel.app/api?username=alishahbaz659&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=alishahbaz659&theme=default_repocard&hide_border=false" alt="GitHub Streak" /> -->
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alishahbaz659&show_icons=true&locale=en&layout=compact" alt="alishahbaz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alishahbaz659&show_icons=true&locale=en" alt="alishahbaz" /></p>
 
 
 
