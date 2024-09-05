@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">🧑🏽‍💻 Software Engineer @ Tu/e</h3>
 
-# Hi 👋, I'm Ali
-
-### 🧑🏽‍💻 Software Engineer @ Tu/e
-
-
 <p align="center">
 	<a href="https://www.linkedin.com/in/alishahbaz659"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
   <a href="https://github.com/alishahbaz659"><img src="https://img.shields.io/github/followers/wajahatkarim3.svg?label=GitHub&style=social" alt="GitHub"></a>  
@@ -41,7 +36,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=alishahbaz659&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- ### ✍️ Random Dev Quote -->
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" style="max-width: 100%; height: auto;">
+</p>
 
 <!-- ### 🔝 Top Contributed Repo -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=alishahbaz659&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
