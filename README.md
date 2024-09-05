@@ -40,7 +40,7 @@
 
 <!-- ### ✍️ Random Dev Quote -->
 <p>
-  <a src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" style="max-width: 100%; height: auto;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" style="max-width: 100%; height: auto;">
 </p>
 
 &nbsp; 
