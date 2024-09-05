@@ -2,7 +2,16 @@
 <h3 align="center">🧑🏽‍💻 Software Engineer @ Tu/e</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on: Java Spring Boot applications and web development using the MERN stack.<br><br>👯 I’m looking to collaborate on: Open-source projects related to web development or cloud solutions.<br><br>🤝 I’m looking for help with: AWS Cloud Solution Architect Associate certification preparation.<br><br>🌱 I’m currently learning: AWS Cloud Solution Architect Associate certification.<br><br>💬 Ask me about: Java Spring, web development with MERN stack, or AWS.<br><br>⚡ Fun fact: I enjoy experimenting with new recipes in my spare time!
+🔭 I’m currently working on: Java Spring Boot applications and web development using the MERN stack.<br><br>👯 I’m looking to collaborate on: Open-source projects related to web development or cloud solutions.<br><br>🤝 I’m looking for help with: AWS Cloud Solution Architect Associate certification preparation.<br><br>🌱 I’m currently learning: AWS Cloud Solution Architect Associate certification.<br><br>💬 Ask me about: Java Spring, web development with MERN stack, or AWS.<br><br>📫 How to reach me **alishahbazbal1234@gmail.com**
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/alishahbaz659"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
+  <a href="https://github.com/alishahbaz659"><img src="https://img.shields.io/github/followers/wajahatkarim3.svg?label=GitHub&style=social" alt="GitHub"></a>  
+</p>
+<h6>💻 Open source contribution </h6>
+<h6>📝 Author of medium articles.</h6>
+<h6>🎤 Actively working on community building through networking.</h6>
+
 
 [![](https://visitcount.itsvg.in/api?id=alishahbaz659&icon=5&color=13)](https://visitcount.itsvg.in)
 
