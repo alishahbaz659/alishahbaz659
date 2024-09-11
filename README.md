@@ -35,14 +35,11 @@
   </tr>
 </table>
 
-<table class="images" width="100%"  style="border:0px solid white; width:100%;">
-    <tr style="border: 0px;">
-        <td width="33%" style="border:0px; width:33.33%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alishahbaz659&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-        </td>
-       
-    </tr>
-</table>
+<style>
+  table td {
+    border: none !important;
+  }
+</style>
 
 
 
