@@ -25,13 +25,10 @@
 # 📊 GitHub Stats:
 
 <p align="left">
-    <div style="display: inline-block; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alishahbaz659&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </div>
-    <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=alishahbaz659&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alishahbaz659&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="float: left; margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alishahbaz659&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
+
 
 
 
