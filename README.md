@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>, I'm Ali</h1>
 <h3 align="center">🧑🏽‍💻 Software Engineer @ Tu/e</h3>
 
 <p align="center">
