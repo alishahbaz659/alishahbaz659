@@ -27,7 +27,7 @@
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alishahbaz659&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alishahbaz659&show_icons=true&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=alishahbaz659&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
