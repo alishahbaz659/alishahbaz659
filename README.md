@@ -48,7 +48,7 @@
 
 <!-- ### ✍️ Random Dev Quote -->
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 
 &nbsp; 
