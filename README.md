@@ -12,7 +12,7 @@
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on: Desktop applications and web development using the MERN stack.<br><br>👯 I’m looking to collaborate on: Open-source projects related to web development or cloud solutions.<br><br>🤝 I’m looking for help with: Designing and building the architecture of complex systems.<br><br>🌱 I’m currently learning: AWS Cloud Solution Architect Associate certification.<br><br>💬 Ask me about: Java Spring, web development with MERN stack, or AWS.<br><br>📫 How to reach me **alishahbazbal1234@gmail.com**
+- I’m currently working on: Desktop applications and web development using the MERN stack.<br><br>- I’m looking to collaborate on: Open-source projects related to web development or cloud solutions.<br><br>- I’m looking for help with: Designing and building the architecture of complex systems.<br><br>- I’m currently learning: AWS Cloud Solution Architect Associate certification.<br><br>- Ask me about: Java Spring, web development with MERN stack, or AWS.<br><br>- How to reach me **alishahbazbal1234@gmail.com**
 
 
 
