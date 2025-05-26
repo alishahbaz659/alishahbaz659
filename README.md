@@ -13,22 +13,17 @@
 
 ## 💫 About Me
 
-- **I’m currently working on:**  
-  Desktop applications and web development using the MERN stack.
+- **I’m currently working on:** Desktop applications and web development using the MERN stack.
 
-- **I’m looking to collaborate on:**  
-  Open-source projects related to web development or cloud solutions.
+- **I’m looking to collaborate on:** Open-source projects related to web development or cloud solutions.
 
-- **I’m looking for help with:**  
-  Designing and building the architecture of complex systems.
+- **I’m looking for help with:** Designing and building the architecture of complex systems.
 
-- **I’m currently learning:**  
-  AWS Cloud Solution Architect Associate certification.
+- **I’m currently learning:** AWS Cloud Solution Architect Associate certification.
 
-- **Ask me about:**  
-  Java Spring, web development with MERN stack, or AWS.
+- **Ask me about:** Java Spring, web development with MERN stack, or AWS.
 
-- **How to reach me:**   **alishahbazbal1234@gmail.com**
+- **How to reach me:** alishahbazbal1234@gmail.com
 
 [![](https://visitcount.itsvg.in/api?id=alishahbaz659&icon=5&color=13)](https://visitcount.itsvg.in)
 
