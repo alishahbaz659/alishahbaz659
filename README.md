@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 
-- **I’m currently working on:** Desktop/Web applications development & exploring LLM's.
+- **I’m currently working on:** Desktop/Web applications development & exploring AI (LLM's).
 
 - **I’m looking to collaborate on:** Open-source projects related to web development or cloud solutions.
 
