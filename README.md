@@ -19,7 +19,7 @@
 
 - **I’m looking for help with:** Designing and building the architecture of complex systems.
 
-- **I’m currently learning:** AWS Cloud Solution Architect Associate certification.
+- **I’m currently learning:** Professional Cloud Developer certification.
 
 - **Ask me about:** Java Spring, web development with MERN stack, or AWS.
 
